@@ -1,2 +1,2 @@
 # homemate
-Home Service App
+Home Services App
